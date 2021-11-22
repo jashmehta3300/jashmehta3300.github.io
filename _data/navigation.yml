@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Experience"
-  #   url: /work/ 
+  - title: "Experience"
+    url: /work/ 
 
   # - title: "Blogs"
   #   url: /posts/
