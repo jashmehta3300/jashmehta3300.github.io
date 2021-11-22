@@ -6,17 +6,14 @@ main:
   - title: "Experience"
     url: /work/ 
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Blogs"
     url: /posts/
 
   - title: "Talks"
-    url: /talks/      
-    
-  # - title: "Projects"
-  #   url: /projects/
+    url: /talks/
     
   - title: "CV"
     url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
