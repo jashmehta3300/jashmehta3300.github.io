@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-----
 
 I'm a final year student at the Department of Computer Engineering at [University of Mumbai](https://www.djsce.ac.in/){:target="_blank" rel="noopener"}, India. 
 
