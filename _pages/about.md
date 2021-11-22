@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a final year student at the Department of Computer Engineering at [University of Mumbai](https://www.djsce.ac.in/){:target="_blank" rel="noopener"}, India. 
 
-My research interests lie in Natural Language Processing, particularly at its intersection with computational social science, and healthcare. Currently, I am working as a research intern under [Prof. Mayank Singh](https://mayank4490.github.io/) at [Indian Institute of Technology (IIT) Gandhinagar](https://iitgn.ac.in/){:target="_blank" rel="noopener"}, exploring interpretability for neural NLP. 
+My research interests lie in Natural Language Processing, particularly at its intersection with computational social science, and healthcare. Currently, I am working as a research intern under [Prof. Mayank Singh](https://mayank4490.github.io/){:target="_blank" rel="noopener"} at [Indian Institute of Technology (IIT) Gandhinagar](https://iitgn.ac.in/){:target="_blank" rel="noopener"}, exploring interpretability for neural NLP. 
 
 In the past, I have worked with [Dr. Zeerak Talat](https://scholar.google.com/citations?hl=en&user=3M3WdvkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener"} at the Digital Democracies Institute at Simon Fraser University. At Unicode Research, I am collaborating with [Swapneel Mehta](https://swapneelm.github.io/){:target="_blank" rel="noopener"} of NYU CSMaP and [Akash Shivastava](https://mitibmwatsonailab.mit.edu/people/akash-srivastava/){:target="_blank" rel="noopener"} of MIT-IBM AI lab. I have been fortunate to work with such brilliant mentors and grateful to them for their advice and support. 
 
