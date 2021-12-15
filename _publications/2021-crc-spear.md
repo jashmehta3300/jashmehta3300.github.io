@@ -7,5 +7,5 @@ excerpt: ''
 date: 2021-03-01
 venue: 'Chapman and Hall/CRC'
 paperurl: 
-citation:
+citation: 'Deep Gandhi, Jash Mehta, and Ramchandra Mangrulkar, “Detection of Spear Phishing using Natural Language Processing,” in Cyber Security Threats and Challenges facing Human Life, ch. 9, Chapman and Hall/CRC, Accepted.'
 ---

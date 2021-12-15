@@ -46,8 +46,12 @@
       <p> {{ post.type }} || {{ post.date_from | default: "1900-01-01" | date: "%B, %Y"}} - {{ post.date_to | default: "1900-01-01" | date: "%B, %Y"}}. </p>
     {% elsif post.collection == 'publications' %}
       <p>
-        Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. 
-        <br />
+        {% if post.venue %}
+          <span>
+            Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. 
+          </span>
+          <br />
+        {% endif %}
         {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
         {% endif %}
