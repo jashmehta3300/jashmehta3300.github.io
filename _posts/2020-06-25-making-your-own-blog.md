@@ -53,7 +53,7 @@ First, click [here](https://rubyinstaller.org/downloads/){:target="_blank" rel="
 You can download it anywhere on your computer.Due to memory issues in my C drive, I have downloaded it in the D drive. 
 
 <p align="center" class="images">
-<img src="assets/images/Capture2.JPG" />
+<img src="/images/Capture2.JPG" />
 </p>
 
 Execute the installer and go through the steps of the installation. When you get to the screen below, make sure to check the “Add Ruby executables to your PATH” box.
@@ -61,13 +61,13 @@ Execute the installer and go through the steps of the installation. When you get
 Click Install and Ruby will be installed within seconds.
 
 <p align="center" class="images">
-<img src="assets/images/Capture1.JPG" />
+<img src="/images/Capture1.JPG" />
 </p>
 
 After the installation is done, you will see this in you command prompt. Select option ```3``` and hit enter.
 
 <p align="center" class="images">
-<img src="assets/images/Capture3.JPG" />
+<img src="/images/Capture3.JPG" />
 </p>
 
 Once the downloading is done, it will again ask you to select an option. This time just hit enter without giving an input.
@@ -160,7 +160,7 @@ git push origin master
 * Go to ```Settings``` on Github and you'll see that your website is hosted !!!
 
 <p align="center" class="images">
-<img srcset="assets/images/Capture4.JPG 2w" sizes="1px" />
+<img srcset="/images/Capture4.JPG 2w" sizes="1px" />
 </p>
 
 <strong>DONE!</strong> Now you can make changes according to your requirements. 
