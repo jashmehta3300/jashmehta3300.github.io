@@ -43,7 +43,27 @@
     {% endif %} -->
 
     {% if post.collection == 'teaching' %}
-      <p> {{ post.type }} || {{ post.date_from | default: "1900-01-01" | date: "%B, %Y"}} - {{ post.date_to | default: "1900-01-01" | date: "%B, %Y"}}. </p>
+      {% if post.advisor %}
+        {% if post.is_open == 'True' %}
+        <p>
+          <span>{{ post.type }} || {{ post.date_from | default: "1900-01-01" | date: "%B, %Y"}} - Present</span>
+          <br />
+          <span>Advisor: <a href="{{ post.advisor_link }}" target=”_blank”>{{ post.advisor }}</a></span>
+        </p>
+        {% else %}
+        <p>
+          <span> {{ post.type }} || {{ post.date_from | default: "1900-01-01" | date: "%B, %Y"}} - {{ post.date_to | default: "1900-01-01" | date: "%B, %Y"}}</span>
+          <br />
+          <span>Advisor: <a href="{{ post.advisor_link }}" target=”_blank”>{{ post.advisor }}</a></span>
+        </p>
+        {% endif %}
+      {% else %}
+        {% if post.is_open == 'True' %}
+          <p> {{ post.type }} || {{ post.date_from | default: "1900-01-01" | date: "%B, %Y"}} - Present </p>
+        {% else %}
+          <p> {{ post.type }} || {{ post.date_from | default: "1900-01-01" | date: "%B, %Y"}} - {{ post.date_to | default: "1900-01-01" | date: "%B, %Y"}}. </p>
+        {% endif %}
+      {% endif %}
     {% elsif post.collection == 'publications' %}
       <p>
         {% if post.venue %}
