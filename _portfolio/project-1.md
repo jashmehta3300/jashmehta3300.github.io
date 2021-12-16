@@ -1,5 +1,5 @@
 ---
-title: "A Federated Approach to Predict Emojis in Hindi Tweets"
-excerpt: "Deep Gandhi&#42;, Jash Mehta&#42;, Nirali Parekh, Karan Waghela, Lynette D'Mello, Zeerak Talat<br/>"
+title: "Cross-Dataset Generalization for Hate Speech Detection using Federated Learning"
+excerpt: "Deep Gandhi&#42;, Jash Mehta&#42;, Jay Gala&#42;, Zeerak Talat<br/>"
 collection: portfolio
 ---

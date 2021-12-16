@@ -1,5 +1,5 @@
 ---
-title: "Generalisable Hate Speech Detection using Federated Learning"
-excerpt: " Deep Gandhi&#42;, Jash Mehta&#42;, Jay Gala&#42;, Zeerak Talat<br/>"
+title: "Automotive Component Failure Prediction"
+excerpt: "Collaborated with a Big4 Consultancy firm to predict tyre life in vehicles using models"
 collection: portfolio
 ---
