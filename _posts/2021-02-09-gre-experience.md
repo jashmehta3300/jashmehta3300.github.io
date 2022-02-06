@@ -109,7 +109,7 @@ It comprises of 2 essays, of 30 minutes each. To be honest, the score of AWA doe
 
 I practiced 3 issue essays and 2 argument essays for appearing for the exam. While giving the mocks, I realized that I slightly struggled in coming up with ample points to support my issue essay arguments. Spending a lot of time in opening the issue essay aggravated the problem. Thus, to alleviate it, I went through the pool of Issue Essays (list of 150 essays) and noted the ones which perplexed me ([this](https://docs.google.com/document/d/19Pfu_IcPMPbxVfz5efyTLO5uxPnw5xHGiqd3GAkGDgE/edit?usp=sharing){:target="_blank" rel="noopener"} is my list). I then surfed the net, found essays written by random people on various portals, and read them to gather a few points. I even prepared a dummy starting paragraph for my Issue essay which was loaded with GRE words to leave a good first impression and to save time for my body paragraphs. I found the argument essays quite straightforward so I did not pay much heed while preparing.
 
-The start and end I prepared for my essays can be found - [here](assets/AWA.pdf){:target="_blank" rel="noopener"}. It is needless to say that copying the text as it is will not help you since ETS has a provision for plagiarism in AWA essays. 
+The start and end I prepared for my essays can be found - [here](/files/blog/AWA.pdf){:target="_blank" rel="noopener"}. It is needless to say that copying the text as it is will not help you since ETS has a provision for plagiarism in AWA essays. 
 
 Does the GRE essay come from the pool of topics specified on the ETS website?
 **Yes**, both the argument and essay topics come from the essay or argument pool as specified in the ETS site (links present at the end of this answer)
