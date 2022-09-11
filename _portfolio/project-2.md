@@ -1,5 +1,5 @@
 ---
-title: "FedHealth: Blockchain-Based Federated Learning Architecture for Healthcare Data"
-excerpt: " Jash Mehta&#42;, Deep Gandhi&#42;, Jay Mehta, Rishi Desai, Lynette D'Mello<br/>"
+title: "Automotive Component Failure Prediction"
+excerpt: "Collaborated with a Big4 Consultancy firm to predict tyre life in vehicles using models"
 collection: portfolio
 ---
