@@ -10,4 +10,4 @@ location: "Mumbai, India"
 ---
 
 - Used Hadoop and Spark to detect 129 anomalies in 2TB of real-time data using the iForests algorithm.
-- Worked on a diverse array of client and internal projects like dynamic report generation using Selenium and Pandas.
+- Created report generation software using JavaScript and SQL which reduced human effort and time by 50%.
